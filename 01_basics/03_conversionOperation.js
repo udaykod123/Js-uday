@@ -20,3 +20,8 @@ let someNumber = 20
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof(stringNumber));
+
+// operations
+let value = 3
+let negValue = -value
+console.log(negValue);
