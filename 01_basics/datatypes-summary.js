@@ -62,6 +62,11 @@ does not implement Call
 Object (native or                   "function"
 host and does implement Cail)
 
+// all primitive value is going on stack memory
+
+When we place a value inside the stack, we get a copy of it.
+// non primitive
+When we kept a value inside the heap, we get its reference.
 
 
 */
